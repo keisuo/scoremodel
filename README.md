@@ -12,3 +12,6 @@ https://zhuanlan.zhihu.com/p/29676042
 
 玩转数据系列:
 https://zhuanlan.zhihu.com/p/27283616
+
+信用评分卡模型的建立:
+https://wenku.baidu.com/view/9d98c12cf121dd36a22d824a.html
